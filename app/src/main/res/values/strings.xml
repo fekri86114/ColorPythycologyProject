@@ -155,7 +155,8 @@
     <string name="isfp">ISFP</string>
     <string name="istj">ISTJ</string>
     <string name="istp">ISTP</string>
-    <string name="loading">Loading...</string>
+    <string name="loading">Loading....</string>
+    <string name="playing">Playing....</string>
 
 
 </resources>
